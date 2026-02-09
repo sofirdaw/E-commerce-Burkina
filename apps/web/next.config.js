@@ -6,31 +6,12 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   
-  images: {
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'res.cloudinary.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'example.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'picsum.photos',
-      },
-    ],
-  },
-  
   experimental: {
     serverActions: {
       bodySizeLimit: '2mb',
     },
+    // Désactiver temporairement l'optimisation des pages
+    optimizeCss: false,
   },
   
   // Charger les variables d'environnement depuis le répertoire racine
