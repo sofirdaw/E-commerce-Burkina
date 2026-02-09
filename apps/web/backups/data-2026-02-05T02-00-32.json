@@ -1,0 +1,58 @@
+{
+  "timestamp": "2026-02-05T02:00:33.884Z",
+  "version": "1.0",
+  "data": {
+    "settings": {
+      "storeName": "Ecomm Burkina",
+      "storeEmail": "contact@ecomm-burkina.bf",
+      "storePhone": "+226 00 00 00 00",
+      "storeAddress": "Ouagadougou, Burkina Faso",
+      "storeDescription": "Votre boutique de confiance au Burkina Faso",
+      "freeShippingThreshold": 20000,
+      "standardShippingCost": 1000,
+      "expressShippingAvailable": true,
+      "expressShippingCost": 5000,
+      "emailNotifications": true,
+      "smsNotifications": false,
+      "maintenanceMode": false,
+      "id": "1",
+      "createdAt": "2026-02-05T00:12:17.232Z",
+      "updatedAt": "2026-02-05T00:20:35.879Z"
+    },
+    "analytics": {
+      "analytics-2026-02-05.json": {
+        "date": "2026-02-05",
+        "pageViews": {
+          "/categories/home": 6,
+          "/admin/analytics": 2,
+          "/admin/settings": 19,
+          "/": 4,
+          "/admin": 1,
+          "/admin/products": 1,
+          "/admin/orders": 1,
+          "/admin/users": 1,
+          "/admin/categories": 1,
+          "/categories": 3,
+          "/categories/alimentation": 1,
+          "/categories/beauty": 1,
+          "/categories/electronics": 1,
+          "/products": 2,
+          "/products/samsung-galaxy-a54": 1,
+          "/products/hp-laptop-15": 1,
+          "/wishlist": 2,
+          "/client/wishlist": 3,
+          "/client/dashboard": 3,
+          "/auth/login": 1,
+          "/become-vendor": 5
+        },
+        "visitors": [],
+        "trafficSources": {
+          "direct": 8,
+          "search": 0,
+          "social": 0,
+          "referral": 52
+        }
+      }
+    }
+  }
+}

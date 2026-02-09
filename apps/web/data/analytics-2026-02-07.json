@@ -1,0 +1,35 @@
+{
+  "date": "2026-02-07",
+  "pageViews": {
+    "/products/decorative-cushion": 1,
+    "/cart": 12,
+    "/about": 8,
+    "/checkout": 2,
+    "/categories/beauty": 6,
+    "/categories/fashion": 2,
+    "/categories/home": 5,
+    "/categories/sports": 3,
+    "/products": 4,
+    "/categories": 5,
+    "/categories/alimentation": 1,
+    "/deals": 2,
+    "/become-vendor": 8,
+    "/account": 2,
+    "/": 9,
+    "/wishlist": 3,
+    "/client/wishlist": 3,
+    "/auth/login": 4,
+    "/auth/register": 1,
+    "/client/dashboard": 1,
+    "/categories/electronics": 1,
+    "/help": 2,
+    "/contact": 1
+  },
+  "visitors": [],
+  "trafficSources": {
+    "direct": 41,
+    "search": 12,
+    "social": 0,
+    "referral": 33
+  }
+}

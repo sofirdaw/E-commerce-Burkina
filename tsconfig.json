@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "lib": ["ES2022"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "resolveJsonModule": true,
+    "allowJs": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"],
+      "@ecomm-burkina/database": ["./packages/database"],
+      "@ecomm-burkina/ui": ["./packages/ui"],
+      "@ecomm-burkina/api": ["./packages/api"],
+      "@ecomm-burkina/config": ["./packages/config"]
+    }
+  },
+  "exclude": ["node_modules", "dist", "build", ".next"]
+}

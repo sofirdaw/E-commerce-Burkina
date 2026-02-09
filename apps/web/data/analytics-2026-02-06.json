@@ -1,0 +1,39 @@
+{
+  "date": "2026-02-06",
+  "pageViews": {
+    "/about": 4,
+    "/become-vendor": 1,
+    "/": 4,
+    "/categories/electronics": 6,
+    "/categories/fashion": 2,
+    "/categories/home": 1,
+    "/categories/beauty": 2,
+    "/categories/sports": 3,
+    "/deals": 7,
+    "/products": 3,
+    "/products/summer-floral-dress": 4,
+    "/cart": 18,
+    "/wishlist": 2,
+    "/client/wishlist": 2,
+    "/client/dashboard": 1,
+    "/categories": 12,
+    "/checkout": 13,
+    "/checkout/success": 9,
+    "/checkout/payment": 11,
+    "/products/jean-slim-fit-homme": 1,
+    "/products/decorative-cushion": 5,
+    "/products/samsung-galaxy-a54": 1,
+    "/shipping": 1,
+    "/returns": 1,
+    "/track-order": 1,
+    "/help": 1,
+    "/products/table-manger-extensible": 1
+  },
+  "visitors": [],
+  "trafficSources": {
+    "direct": 9,
+    "search": 0,
+    "social": 0,
+    "referral": 108
+  }
+}

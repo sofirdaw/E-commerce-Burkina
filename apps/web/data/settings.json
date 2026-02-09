@@ -1,0 +1,17 @@
+{
+  "storeName": "Ecomm Burkina",
+  "storeEmail": "contact@ecomm-burkina.bf",
+  "storePhone": "+226 00 00 00 00",
+  "storeAddress": "Ouagadougou, Burkina Faso",
+  "storeDescription": "Votre boutique de confiance au Burkina Faso",
+  "freeShippingThreshold": 20000,
+  "standardShippingCost": 1000,
+  "expressShippingAvailable": true,
+  "expressShippingCost": 5000,
+  "emailNotifications": true,
+  "smsNotifications": false,
+  "maintenanceMode": false,
+  "id": "1",
+  "createdAt": "2026-02-05T00:12:17.232Z",
+  "updatedAt": "2026-02-05T00:20:35.879Z"
+}

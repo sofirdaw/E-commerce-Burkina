@@ -1,0 +1,30 @@
+{
+  "date": "2026-02-08",
+  "pageViews": {
+    "/": 11,
+    "/categories": 4,
+    "/products/chanel-parfum-5": 1,
+    "/cart": 5,
+    "/auth/login": 8,
+    "/become-vendor": 1,
+    "/products": 12,
+    "/categories/electronics": 2,
+    "/wishlist": 1,
+    "/client/wishlist": 1,
+    "/categories/home": 8,
+    "/products/adjustable-dumbbells": 8,
+    "/categories/sports": 1,
+    "/products/yoga-mat-premium": 1,
+    "/client/products": 1,
+    "/products/kit-mode-complet": 3,
+    "/products/decorative-cushion": 13,
+    "/about": 1
+  },
+  "visitors": [],
+  "trafficSources": {
+    "direct": 29,
+    "search": 16,
+    "social": 0,
+    "referral": 37
+  }
+}
